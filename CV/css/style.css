@@ -1,0 +1,45 @@
+.heading h1{
+	text-transform: uppercase;
+	padding: 20px;
+	font-size: 50px;
+	font-family: 'Righteous', cursive;
+}
+.details {
+	width: 800px;
+}
+.details h4 a{
+	font-family: 'Francois One', sans-serif;
+	font-size: 30px;
+	padding: 20px 0px;
+	text-decoration: none;
+}
+.details .panel-heading{
+	padding: 25px 15px;
+}
+.details .panel-group .panel{
+	margin: 15px 0px;
+}
+.details .panel-body{
+	font-family: 'Roboto', sans-serif;
+}
+.details .panel-body table td{
+	font-size: 20px;
+}
+.details .panel-body table td .list-group{
+	margin-bottom: 0px;
+}
+.footer {
+	width: 800px;
+	background: #000;
+	padding: 10px 0px;
+}
+.footer span{
+	padding: 0px 10px;
+	font-style: italic; 
+	color: #ddd;
+}
+.footer p{
+	padding: 0px 20px; 
+	color: #ddd;
+	margin: 0px;
+}
